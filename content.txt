@@ -1,3 +1,7 @@
 Created a file.
 Edited the file on GitHub
+<<<<<<< HEAD
 Edited the file on laptop
+=======
+Edited the file on GitHub
+>>>>>>> FETCH_HEAD
